@@ -7,8 +7,8 @@ This project focuses on analyzing football match footage by detecting and tracki
 
 To track player movement more precisely, optical flow is used to compensate for camera motion between frames. Perspective transformation is applied to convert pixel coordinates into real-world measurements, enabling the calculation of distances in meters. With this data, the system estimates each player’s speed and total distance covered during the match.
 
-![Screenshot](output_videos/screenshot1.png)
-![Screenshot](output_videos/screenshot2.png)
+![Screenshot](screenshot/screenshot1.png)
+![Screenshot](screenshot/screenshot2.png)
 
 ## Modules Used
 The following modules are used in this project:
